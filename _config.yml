@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Silvia Severini"
-  avatar           : "profile.png"
+  avatar           : "/images/profilepic.png"
   bio              : "PhD student in Natural Language Processing and Deep Learning in CIS - LMU Munich"
   location         : "Munich, Germany"
   employer         :
