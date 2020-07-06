@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Silvia Severini"
   avatar           : "profile.png"
-  bio              : "Phd student in Natural Language Processing and Deep Learning in CIS - LMU Munich"
+  bio              : "PhD student in Natural Language Processing and Deep Learning in CIS - LMU Munich"
   location         : "Munich, Germany"
   employer         :
-  pubmed           : ""
-  googlescholar    : ""
+  pubmed           : 
+  googlescholar    : 
   email            : "silvia@cis.lmu.de"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
