@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 ## Silvia Severini
-======
+
 * Ludwig-Maximilians-Universität München - Centrum für Informations- und Sprachverarbeitung
 * Oettingenstraße 67 (Raum124)
 * +49-89-2180-9708
