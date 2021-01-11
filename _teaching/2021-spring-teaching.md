@@ -3,18 +3,21 @@ title: "Repetitorium und Kolloquium der Computerlinguistik"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2021-spring-teaching
-venue: "University 1, Department"
-date: 2021-04-01
-location: "City, Country"
+#venue: "University 1, Department"
+date: Sommersemester 2021
+location: Centrum für Informations- und Sprachverarbeitung, LMU München
+
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Class  description...
 
-Heading 1
-======
 
-Heading 2
-======
+- Language: English
+- Time: tbd
+- Room: tbd
 
-Heading 3
-======
+Materialen:
+
+| Date | Slides | Materials
+|-----------------------------|:--------------------------------:|:-------------------------------------------------------------------|
+
