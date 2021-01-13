@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Contacts"
+title: "Contact"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -12,6 +12,6 @@ redirect_from:
 ## Silvia Severini
 
 * Ludwig-Maximilians-Universität München - Centrum für Informations- und Sprachverarbeitung
-* Oettingenstraße 67 (Raum124)
+* Oettingenstraße 67 (Raum 124)
 * +49-89-2180-9708
 * silvia@cis.lmu.de
