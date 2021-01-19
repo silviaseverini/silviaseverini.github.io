@@ -8,6 +8,9 @@ date: 2021-04-01
 location: Centrum für Informations- und Sprachverarbeitung, LMU München
 
 ---
+In this class we will talk about useful topics for the preparation of a Bachelor thesis. 
+Companies will briefly present the work of a computer linguists in a their company and students will have to chance to get an overview of the tasks and projects they will be working on as computational linguists.
+
 
 Sommersemester 2021
 
@@ -18,21 +21,5 @@ Information:
 
 * You can reach the lecturer at: silvia@cis.uni-muenchen.de
 
-Materialen:
-
-| Date | Slides | Materials
-|-----------------------------|--------------------------------|-----------------------
-Apr. 12, 2021 | 1 | ..
-Apr. 19, 2021 | 1 | ..
-Apr. 26, 2021 | 1 | ..
-May 3, 2021 | 1 | ..
-May 10, 2021 | 1 | ..
-May. 24, 2021 | 1 | ..
-May. 31, 2021 | 1 | ..
-Jun. 7, 2021 | 1 | ..
-Jun. 14, 2021 | 1 | ..
-Jun. 21, 2021 | 1 | ..
-Jun. 28, 2021 | 1 | ..
-Jul. 6, 2021 | 1 | ..
-Jul. 13, 2021 | 1 | ..
+* Class Moodle [here](https://moodle.lmu.de/enrol/index.php?id=13270)
 
