@@ -1,5 +1,5 @@
 ---
-title: "Combining Word Embeddings with Bilingual Orthography Embeddings for Bilingual Dictionary Induction. (to appear)"
+title: "Combining Word Embeddings with Bilingual Orthography Embeddings for Bilingual Dictionary Induction."
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-4
 date: 2020-10-01
