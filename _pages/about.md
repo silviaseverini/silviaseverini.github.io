@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year PhD student in NLP and Deep Learning at the Ludwig-Maximilians-Universität in Munich, Germany.
+I am a second-year PhD student in NLP and Deep Learning at the Ludwig-Maximilians-Universität in Munich, Germany.
 I'm a member of the Center for Information and Language Processing ([CIS](https://www.cis.uni-muenchen.de/)) under the supervision of Prof. Dr. [Hinrich Schütze](https://www.cis.uni-muenchen.de/schuetze/).
 
 I received my Bachelor's degreee in Computer Science at the [University of Bologna](https://corsi.unibo.it/laurea/informatica) in 2017.
