@@ -2,6 +2,8 @@
 title: "Thesis co-supervision"
 collection: teaching
 permalink: /teaching/2021-thesis-teaching
+type: ""
+date: 2021-06-01
 location: Centrum für Informations- und Sprachverarbeitung, LMU München
 ---
 
